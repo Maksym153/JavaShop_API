@@ -70,7 +70,7 @@
     </dependencies>
 
     <build>
-        <finalName>shopPV016</finalName>
+        <finalName>ShopAPI</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
